@@ -1,0 +1,32 @@
+button:hover{
+    color: aliceblue;
+    background-color: aquamarine;
+} 
+button:active{
+    
+    background-color: yellow;
+    
+}
+input[type="radio"]:checked+label{
+    color: red;
+    font-weight: bold;
+}
+ ::first-letter{
+    color: red;
+}
+::first-line{
+    color:beige;
+}
+::selection{
+    color: blue; 
+    
+}
+h6{
+    background-color: cyan !important;
+}
+div[id="abb"]{
+    background-color: yellow;
+}
+section div ul li{
+    color: green;
+}

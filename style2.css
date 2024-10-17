@@ -1,0 +1,37 @@
+
+/* *{
+    color: rgb(0, 0, 0);
+    background-color: beige;
+} */
+/* h1{
+    color: antiquewhite;
+    background-color: blueviolet;
+}  */
+#myid {
+   
+    color: rgb(208, 22, 22);
+    background-color: yellow
+}
+.ab {
+    color: blue;
+   background-color: green;
+}
+nav ul li p {
+    color: chartreuse;
+}
+p+h3 {
+    color: blueviolet;
+    background-color: brown;
+}
+h5>p {
+    color: bisque;
+    background-color: black;
+}
+input[id="abcd"]{
+    color: blue;
+    background-color: burlywood;
+}
+div[id="abcde"] p {
+    color: cadetblue;
+    background-color: black;
+}
